@@ -1,0 +1,23 @@
+.aboutDiv{
+    background-color:rgba(239, 241, 241, 0.948);
+    margin-top: 20px;
+}
+.aboutText{
+    text-align: center;
+    font-size: large;
+    font-family:cursive;
+    letter-spacing: 1.5px;
+    word-spacing: 2px;
+    line-height: 1.8;
+}
+.textStyle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1.3px;
+}
+.abt_btn{
+    display: block!important;
+    margin: auto!important;
+}
+.abtBtnLink{
+    text-decoration: none;
+}

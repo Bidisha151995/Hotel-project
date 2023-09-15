@@ -1,0 +1,22 @@
+{
+  "reviews": [
+    {
+      "name": "John Doe",
+      "email": "john123@mail.com",
+      "msg": "Wonderful experience.Definately recommend it.",
+      "id": 1
+    },
+    {
+      "name": "Bidisha Roy",
+      "msg": "Great experience",
+      "email": "roybidisha895@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Lee",
+      "msg": "I loved it!",
+      "email": "lee321@mail.com",
+      "id": 3
+    }
+  ]
+}

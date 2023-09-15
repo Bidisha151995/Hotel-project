@@ -1,0 +1,13 @@
+.reviewMainDiv{
+    background-image: url(../../../public/assets/BookingImg.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.reviewTag{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.reviewFormdiv{
+    background-image: linear-gradient(90deg, rgb(49, 188, 238), rgb(103, 110, 249));
+    box-shadow: 2px 2px rgb(230, 191, 239);
+    border-radius: 15px;
+}

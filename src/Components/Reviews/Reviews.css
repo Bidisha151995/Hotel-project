@@ -1,0 +1,24 @@
+.reviewBack{
+    background-image: linear-gradient(90deg, rgb(250, 201, 159), rgb(249, 103, 108));
+       
+}
+.reviewBtn{
+    display: block!important;
+    margin: auto!important;
+    background-image: linear-gradient(90deg, rgb(25, 142, 184), rgb(103, 44, 240));
+    font-weight: 400;
+    font-size: larger;
+
+}
+.reviewBtnLink{
+    text-decoration: none;
+}
+.reviewHead{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.editBtn{
+    background-image: linear-gradient(90deg, rgb(25, 142, 184), rgb(103, 44, 240));
+    font-weight: 400;
+    font-size: larger;
+
+}

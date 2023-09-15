@@ -1,0 +1,12 @@
+.signUpMainDiv{
+    background-image: linear-gradient(90deg,rgb(111, 207, 236),rgb(103, 44, 240), rgb(184, 37, 242) );
+}
+
+.signUpFormDiv{
+    background-color: white;
+}
+.signUpBtn{
+    background-image: linear-gradient(90deg,rgb(111, 207, 236),rgb(103, 44, 240), rgb(184, 37, 242) );
+    display: block!important;
+    margin: auto!important;
+}

@@ -1,0 +1,13 @@
+.backImg{
+    background-color:rgba(247, 247, 231, 0.948);
+
+}
+.room_head{
+    font-family:monospace;
+}
+.room_text{
+    font-size: large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    line-height: 35px;
+}

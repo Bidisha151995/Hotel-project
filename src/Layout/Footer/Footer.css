@@ -1,0 +1,24 @@
+.footerDiv{
+    background-color: black;
+    opacity: 0.8;
+    /* margin-top: 25px; */
+    padding: 10px;
+    color: azure;
+}
+.link{
+    text-decoration: none;
+    color: azure;
+}
+/* ul li .link:hover{
+    transform: translateY(100px);
+  transition: all 0.3s ease-in-out 0.1s;
+} */
+.socialnetwork li{
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+}
+
+
+
+

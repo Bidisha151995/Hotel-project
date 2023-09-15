@@ -1,0 +1,24 @@
+.loginMainDiv{
+    background-image: linear-gradient(90deg,rgb(111, 207, 236),rgb(103, 44, 240), rgb(184, 37, 242) );
+
+}
+.userCaption{
+    font-weight: 400;   
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+.logInFormDiv{
+    background-color: white;
+    color: black;
+}
+/* .formInput{
+    border-bottom: 1px solid black;
+} */
+.logInBtn{
+    background-image: linear-gradient(90deg,rgb(111, 207, 236),rgb(103, 44, 240), rgb(184, 37, 242) );
+    display: block!important;
+    margin: auto!important;
+    border: none;
+}
+.linkWord{
+    font-size: larger;
+}

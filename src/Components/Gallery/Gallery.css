@@ -1,0 +1,38 @@
+.galleryText{
+    font-size:large;
+    line-height: 1.2;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 1.5px;
+    word-spacing: 2px;
+    line-height: 1.6;
+}
+.dineMainDiv{
+    height: 100vh;
+    background-image: url('../../../public/assets/DiningBackground.jpg');
+    background-size:100% 100%;
+}
+.wedMainDiv{
+    height: 100vh;
+    background-image: url('../../../public/assets/weddings.jpg');
+    background-size:100% 100%;
+}
+h2.dine_head{
+    font-size:50px;
+   font-weight:400; 
+   letter-spacing: 2.5px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2.wed_head{
+    color: rgb(248, 31, 244);
+    font-size:40px;
+   font-weight:400; 
+   letter-spacing: 2.8px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.spaText{
+    color: rgb(231, 110, 231);
+    letter-spacing: 2px;
+    font-size:xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}

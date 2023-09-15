@@ -1,0 +1,29 @@
+.book_btn{
+    background-image: linear-gradient(90deg, rgb(25, 142, 184), rgb(103, 44, 240));
+    color: white;
+    padding: 10px;
+    font-weight: 600;
+    border: none;
+}
+.book_btn:hover{
+    color: rgb(249, 216, 1);
+    border: 1px solid rgb(4, 4, 137);
+
+}
+img.logo{
+    width: 70px;
+    height:70px;
+    border-radius: 50%;
+}
+.logOut_btn{
+    background-color: transparent;
+    color: red;
+    padding: 9px;
+    font-weight: 600;
+    border:1px solid red;
+}
+.logOut_btn:hover{
+    background-color:red;
+    color: white;
+    border:1px solid white;
+}

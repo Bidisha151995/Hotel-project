@@ -1,0 +1,24 @@
+.errorMainDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('../../../../public/assets/BookingImg.jpg');
+    background-size: cover;
+    background-position:fixed ;
+}
+.errorDiv{
+    position: absolute;
+    top: 50%;
+    border: 2px solid rgb(249, 249, 249);
+    /* margin:80px auto; */
+    width: 30%;
+    /* padding: 65px; */
+    text-align: center;
+    border-radius: 8px;
+    /* box-shadow:5px 5px 5px 5px rgb(238, 236, 236); */
+    background-color: rgb(243, 130, 26);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    filter: drop-shadow(8px 8px 10px gray);
+
+}

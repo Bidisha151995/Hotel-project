@@ -1,0 +1,26 @@
+.rcptMainDiv{
+    background-image: url(../../../public/assets/receiptBackground.jpg);
+    background-size: cover;
+    padding: 50px;
+}
+.receiptDiv{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.tableDiv{
+    top: 50%;
+    border: 2px solid rgb(240, 193, 6);
+    background-color: rgba(240,193,6,0.4);
+    margin: 40px auto;
+    padding: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-align: center;
+}
+.table_btn{
+    display: block!important;
+    margin: auto!important;
+}
+.tblBtnLink{
+    text-decoration: none;
+}

@@ -1,0 +1,31 @@
+.mainDiv{
+    height: 100vh;
+    background-image: url('../../../public/assets/BannerImage.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+.homeDiv{
+    position: relative;
+    width: 100%;
+    top: 35%;
+    text-align: center;
+}
+h1.title{
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 3px;
+    font-weight: 800;
+}
+.homeBtn{
+    width: 15%;
+    padding:8px;
+    font-size: larger;
+    letter-spacing: 3px;
+    border-radius: 18px;
+    font-weight: 600;
+}
+.homeBtn :hover{
+    background-color: orange;
+    color: azure;
+}

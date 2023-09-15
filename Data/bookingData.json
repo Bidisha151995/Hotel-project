@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "fullname": "John Doe",
+      "email": "johndoe123@gmail.com",
+      "contact_no": "987654321",
+      "check_in_date": "01-08-2023",
+      "check_out_date": "05-08-2023",
+      "adults": "2",
+      "children": "0",
+      "room_type": "Beach Villa",
+      "id": 1
+    },
+    {
+      "fullname": "Emily Rose",
+      "email": "mike123@gmail.com",
+      "contact_no": "8961990669",
+      "check_in_date": "2023-10-22",
+      "check_out_date": "2023-10-29",
+      "adults": "2",
+      "children": "1",
+      "room_type": "Royal Family Suite",
+      "id": 2
+    },
+    {
+      "fullname": "Soutrik Roy",
+      "email": "soutrik1@gmail.com",
+      "contact_no": "9674418418",
+      "check_in_date": "2023-10-22",
+      "check_out_date": "2023-10-29",
+      "adults": "2",
+      "children": "",
+      "room_type": "Beach Villa",
+      "id": 3
+    },
+    {
+      "fullname": "Bidisha Roy",
+      "email": "roybidisha895@gmail.com",
+      "contact_no": "9876543210",
+      "check_in_date": "2023-09-17",
+      "check_out_date": "2023-09-24",
+      "adults": "2",
+      "children": "2",
+      "room_type": "Beach Villa",
+      "id": 4
+    },
+    {
+      "fullname": "Bidisha Roy",
+      "email": "bidisha@123",
+      "contact_no": "9876543210",
+      "check_in_date": "2023-10-08",
+      "check_out_date": "2023-10-15",
+      "adults": "2",
+      "children": "0",
+      "room_type": "Beach Villa",
+      "id": 5
+    }
+  ]
+}
